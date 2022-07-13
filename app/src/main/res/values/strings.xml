@@ -1,0 +1,89 @@
+<resources>
+    <string name="app_name">EasyEnergy</string>
+    <string name="selamat_datang">Selamat Datang</string>
+    <string name="login">Login</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="history">History</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="halo">Halo,</string>
+    <string name="total_token_anda">Total Token Anda</string>
+    <string name="_200_mnrg">200 mNRG</string>
+    <string name="list_room">List Room</string>
+    <string name="lihat_lainya">Lihat Lainya</string>
+    <string name="sampleroom">Room ABC</string>
+    <string name="privates">private</string>
+    <string name="_7_partisipan_terdaftar">7 partisipan terdaftar</string>
+    <string name="lorem">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed aliquam sagittis massa, euismod elementum velit eleifend id. Maecenas consequat, diam sit amet ultricies vestibulum, ante sapien condimentum ante, et blandit est quam in diam.</string>
+    <string name="tutorial">Tutorial</string>
+    <string name="tutorialsample">Tutorial withdraw mNRG</string>
+    <string name="room_1">Room 1</string>
+    <string name="reward">Reward</string>
+    <string name="_10_mnrg">10 mNRG</string>
+    <string name="sample_timeline">10 Hari Lagi</string>
+    <string name="participant">Participant</string>
+    <string name="ian_rachman">Ian Rachman</string>
+    <string name="ian_rd">ian_rd</string>
+    <string name="request_host">Request Host</string>
+    <string name="profile">Profile</string>
+    <string name="verif">Verifikasi Meteran</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="scan">Scan</string>
+    <string name="login_success">Login success</string>
+    <string name="login_fail">Login fail</string>
+    <string name="username">Input Username</string>
+    <string name="email">Input Email</string>
+    <string name="password">Input Password</string>
+    <string name="register">Daftar</string>
+    <string name="register_success">Register success silahkan login</string>
+    <string name="register_fail">Register fail</string>
+    <string name="fullname">Input Fullname</string>
+    <string name="challenge">Challenge</string>
+    <string name="change_photo">Ubah Foto Profile</string>
+    <string name="Nama">Nama</string>
+    <string name="simpan">Simpan</string>
+    <string name="ianrd_gmail">ianrd@gmail.com</string>
+    <string name="buat_akunl">Buat akun untuk bergabung EasyEnergy!</string>
+    <string name="daftar_akun">Daftar Akun</string>
+    <string name="verif_meteran">Verifikasi Meteran</string>
+    <string name="masuk_id_met">Masukan ID Meteran</string>
+    <string name="id_met">8273123912</string>
+    <string name="pilih_daya">Pilih Daya Listrik</string>
+    <string-array name="daya">
+        <item>900 VA</item>
+        <item>1.300 VA</item>
+        <item>2.200 VA</item>
+        <item>3.500 VA</item>
+        <item>4.400 VA</item>
+        <item>5.500 VA</item>
+        <item>7.700 VA</item>
+        <item>11.000 VA</item>
+    </string-array>
+    <string name="ambil_gambar">Ambil Gambar</string>
+    <string name="ambil_gambar_meteran">Ambil gambar meteranmu!</string>
+    <string name="locked_stacking">Locked Stacking</string>
+    <string name="yout_total_token">Your total token</string>
+    <string name="total_token">200 mNRG</string>
+    <string name="persen_apy">17.2 %</string>
+    <string name="my_stake">My Stake</string>
+    <string name="my_reward">My Reward</string>
+    <string name="my_stake_reward">25 mNRG</string>
+    <string name="duration">Duration</string>
+    <string name="apy_title">Apy .</string>
+    <string name="stake_token">Stake Token</string>
+    <string name="baca_benefit">Baca benefit stacking disini</string>
+    <string name="stacked">Stacked</string>
+    <string name="tanggal_stacked">1/1/2022</string>
+    <string name="waktu_stacked">09.00.27</string>
+    <string name="totall_stacked">40 mNRG</string>
+    <string name="earn_history">Earn History</string>
+
+
+
+
+
+
+</resources>
